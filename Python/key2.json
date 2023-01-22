@@ -1,12 +1,3 @@
 {
-  "type": "service_account",
-  "project_id": "breathanalysisapp",
-  "private_key_id": "1049c6511322fd44ba12e81488dd82575b02736c",
-  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDY4n1TZwVCi5Xo\n9buqNY/JzsDZ5eOQBP0eNQtPSKWXH1gsj6A7rT7pMcTzlTRSCJA2y1u7YntbXDFN\n8Ozr5xACwyTPKzkyD91+LquHI7wVFQn7KbXL6mG81qi+deuGiR8N8+uvy9dkTwZf\nvJq0JjQzq13vgVx8P0v/jcfI06BQGIGYBog+ioL7aTB2wZ/NKtw2snI2awICExyK\nHC8bJtTIMQyMr2Ersxailo477Y2Lt0j5VFIVwN6GGwY0JddfMnz+2qZ6Lh6YU4ne\nvKW/Vj24bdiDi+UoUDxra/1EEeD8PJ1jKFI3VMTaflpTpxPS55XgC0H8x1lJUbsY\nFXzLKor1AgMBAAECggEAal9TVmeNteCeSt7TBx00A6erAHP3E3jO6FTd0inwRVlz\nNo/O59YFp/vn/Avu2Fko2icNO6+Gjv19lRuYJ+9w89ngINezOrF7Udrz99j382MZ\nPR1s87Fl9GdX5eoR9S8lkwNSUito3eLAXo4zVi3ypnDjJofM44dr79AK752T4BPt\nu27TdB7Ue5T+taxBmXQqnNbf7HMxLhyU0PBhUQCq3MMjM8vyJkY4hB5+IzqIb/GR\nHqO+c5PpXAeLQOufDW7357b65izho+yexfJRHbxJX4xa6BZLrIqqx5JURac7BqTR\nFk43fyMYvTX+67yWkYenmlFKtv7dy6tglR6JCqKANQKBgQDutizmENXobcYv/D9O\nwIw07J+iE6my7QEffWb1bUmUYkNLevo2hC7k21ruE9CH9z61zVz2xGxF9cJW8CGv\nKaV7tNZ+Vp4fMH8ucxuCuf8X++tkFATrGB16bLZpLJYNYto5nowjGlqb1SNWcxvP\nmlvqj+1J6vyg5XonNO3DZhZQMwKBgQDol6IhZPvzujvOALWpNauQMUjMNOvHMO6B\n8pVFIwt0RFW4y2+/z2AT2GVprq7B2MonYTmu/0c5ZckPaIi3hz3YFXO5reXnPDLL\nJAE6Fdr7PVYIoDpeetbIQMoEMurF+RoTNQBcqKkFEzlCzE9zi2GyGU6NOYODHJ97\nevzbxJNwNwKBgDJxitFfM2S3dc8EFfi1VauFaUJdt1mZHciivlQUsRzLGv9jUGae\nzi4McI2o4EMrKzRN3lxDK8Io6dVnTybtvQuELmNqOGXM4MNXDbQ1S8Ost5Rhapyn\nbutE99MH2fmgLw9IAsMUOZt+kcYd8v2O1+ecXH9nSdVSSNrqI2hMNWDjAoGBAM3H\nifu9mmOR+uNRIWepQjZ6RAvXLlq24e06L/JRBQtCggzSf/XVhQ1JwL91esup/4BD\ntoMq+1q+wNnPBFZLYt3QbOh0ABlK2y16l1NKjskFBR7wk3OPfoMBPznjym6I6xbf\nJ4jS92a0EU8V750sTa0CUssDfWT8Z+UZdKkDC+aVAoGAbn/BUDQ8czMb3WehbiJV\n9CkXI7IzvHtqQ2PVP6qTejRE+Kl7YJDYSuqaujiFVUyXif1q9+2w9iXJKRTQqDLG\nFdUKH9/Zj4F2OnLKT1veJUhxtgUbO2ftIOW3nk+vhaecew3f0LguL9CoZbJ+o1GV\nTToKmPENJXDVUkPE8SOf1IU=\n-----END PRIVATE KEY-----\n",
-  "client_email": "firebase-adminsdk-fvyny@breathanalysisapp.iam.gserviceaccount.com",
-  "client_id": "111619059098641231416",
-  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
-  "token_uri": "https://oauth2.googleapis.com/token",
-  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
-  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-fvyny%40breathanalysisapp.iam.gserviceaccount.com"
+ Per le API richiedere ai propietari della repository.
 }
