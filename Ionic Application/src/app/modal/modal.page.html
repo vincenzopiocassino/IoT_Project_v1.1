@@ -1,0 +1,48 @@
+<ion-header>
+  <ion-toolbar color="secondary">
+    <ion-title>Details</ion-title>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content>
+  <div *ngIf="data">
+    <ion-item>
+      <ion-label position="stacked">Utente</ion-label>
+      <ion-input [(ngModel)]="data.User"></ion-input>
+    </ion-item>
+
+    <ion-item>
+      <ion-label position="stacked">Time</ion-label>
+      <ion-input [(ngModel)]="data.TimeStamp"></ion-input>
+    </ion-item>
+
+    <ion-item>
+      <ion-label position="stacked">Status</ion-label>
+      <ion-input [(ngModel)]="data.Status"></ion-input>
+    </ion-item>
+
+    <ion-item>
+      <ion-label position="stacked">Phone Number</ion-label>
+      <ion-input [(ngModel)]="data.PhoneNumber"></ion-input>
+    </ion-item>
+
+    <ion-item>
+      <ion-label position="stacked">Modello Automobile</ion-label>
+      <ion-input [(ngModel)]="data.ModelloAuto"></ion-input>
+    </ion-item>
+
+
+  </div>
+  <br>
+  <ion-button expand="block" color="success" (click)="updateData()">
+    <ion-icon name="globe-outline" slot="start"></ion-icon>
+    Open Google Maps
+  </ion-button>
+
+  <ion-button expand="block" color="alert" (click)="resetData()">
+    <ion-icon name="refresh-outline" slot="start"></ion-icon>
+    Reset Car Engine
+  </ion-button>
+
+
+</ion-content>

@@ -1,0 +1,5 @@
+#BOTKEY = '5864786461:AAHQeT70gERtKItuvtzCduKaOi3P4pbBspw'
+#chatID = 837553416
+
+bot_token = '5864786461:AAHQeT70gERtKItuvtzCduKaOi3P4pbBspw'
+chat_id = '1043531303'
